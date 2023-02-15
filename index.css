@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+}
+
+@font-face{
+    src: url("TickingTimebombBB.ttf");
+    font-family: digital;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #1B244A;
+    width: 570px;
+    height: 385px; 
+}
+.btns{
+    width: 155px;
+    height: 45px;
+    display: flex;
+    justify-content: space-between
+}
+#ng{
+     background: #1B244A;
+    width: 570px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+#ngb{
+    background: #9AABD8;
+    width: 150px;
+    height: 30px;
+    border: 0;
+    border-radius: 5px;    
+}
+.btn{
+    width: 45px;
+    height: 45px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    color: #9AABD8;
+    background: #1B244A;    
+}
+.scorecard{
+    width: 155px;
+    height: 120px;
+    background: #080001;
+    border-radius: 5px;
+    margin-bottom: 34px;
+}
+.score{
+    width: 117px;
+    height: 120px;
+    font-family: digital;
+    font-style: normal;
+    font-size: 90px;
+    line-height: 127px;
+    text-align: center;
+    color: #F94F6D;
+    margin: auto;
+}
+.teams{
+    width: 149px;
+    height: 36px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    color: #EEEEEE;
+}
