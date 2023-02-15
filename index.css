@@ -13,6 +13,7 @@ body {
     background: #1B244A;
     width: 570px;
     height: 385px; 
+    margin: auto;
 }
 .btns{
     width: 155px;
@@ -25,6 +26,7 @@ body {
     width: 570px;
     text-align: center;
     padding-bottom: 50px;
+    margin: auto;
 }
 #ngb{
     background: #9AABD8;
