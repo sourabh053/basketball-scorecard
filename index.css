@@ -6,6 +6,9 @@ body {
     src: url("TickingTimebombBB.ttf");
     font-family: digital;
 }
+button{
+   cursor: pointer;
+}
 .container {
     display: flex;
     justify-content: space-around;
