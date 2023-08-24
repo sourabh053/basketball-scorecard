@@ -1,21 +1,47 @@
-# cob8b473ea9b489eda4c95869
+# BasketBall Scorecard Site
 
-Quick start:
+I made this site when i started learning with [Scrimba](https://scrimba.com/#overview). It is very good plateform to learn HTML/CSS and JS for the beginners. It has inbuilt code editor means when you are watching a video you can pause it at any time and start coding on the same editor on which your mentor from scrimba is coding.
 
-```
-$ npm install
-$ npm start
-````
+## Table of contents
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+  - [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+  - [Author](#author)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-Happy Coding!
+## Overview
+
+This site i have made using HTML/CSS and a little bit of JavaScript. Its basically a score manager site for basket ball and looks similar to real life basketball Scorecard. when a team is winning its name is highlighted. A new game can be started when u press new game button, both team scores will then go to zero.  
+
+### Screenshot
+
+![Screenshot1](/Screenshots/Screenshot1.png)
+![Screenshot2](/Screenshots/Screenshot2.png)
+
+
+### Links
+
+- Live Site URL: [Live site](https://extraordinary-shortbread-493b58.netlify.app/)
+
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- JavaScript
+
+
+### Useful resources
+
+- [w3sschools](https://www.w3schools.com/)
+- [Scrimba](https://scrimba.com/#overview) 
+
+## Author
+
+- LinkdIn - [Sourabh Thakur](https://www.linkedin.com/in/sourabh-thakur-b71a68250/)
